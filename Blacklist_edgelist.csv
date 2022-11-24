@@ -1,0 +1,23 @@
+"from,","to,",weight
+Teddy Brimley,Raymond Reddington,2
+Raymond Reddington,Dembe Zuma,3
+Raymond Reddington,Mr. Kaplan,3
+Raymond Reddington,Harold Cooper,1
+Raymond Reddington,Dominic Wilkinson,3
+Raymond Reddington,Elizabeth Keen,3
+Raymond Reddington,Tom Keen,1
+Dembe Zuma,Raymond Reddington,3
+Dembe Zuma,Elizabeth Keen,2
+Dembe Zuma,Dominic Wilkinson,1
+Mr. Kaplan,Raymond Reddington,2
+Mr. Kaplan,Dominic Wilkinson,1
+Harold Cooper,Raymond Reddington,1
+Harold Cooper,Elizabeth Keen,2
+Dominic Wilkinson,Elizabeth Keen,3
+Dominic Wilkinson,Mr. Kaplan,1
+Elizabeth Keen,Tom Keen,3
+Elizabeth Keen,Dembe Zuma,2
+Elizabeth Keen,Dominic Wilkinson,3
+Elizabeth Keen,Harold Cooper,2
+Tom Keen,Raymond Reddington,1
+Tom Keen,Elizabeth Keen,3
